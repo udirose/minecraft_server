@@ -1,0 +1,13 @@
+{
+  "showSortButton": true,
+  "showTooltips": true,
+  "separateButton": true,
+  "sortPlayerInventory": false,
+  "sortType": "NAME",
+  "enableDoubleClickSort": true,
+  "sortHighlightedItem": true,
+  "scrollBehaviour": "FREE",
+  "customCompatibilityListDownloadUrl": "",
+  "preventSortForScreens": [],
+  "hideButtonsForScreens": []
+}
